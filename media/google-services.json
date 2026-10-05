@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "757703636681",
+    "firebase_url": "https://sao-viet-beauty-clinic-default-rtdb.firebaseio.com",
+    "project_id": "sao-viet-beauty-clinic",
+    "storage_bucket": "sao-viet-beauty-clinic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757703636681:android:579a2877f8e9ca15137f18",
+        "android_client_info": {
+          "package_name": "vn.saovietezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5i0grNnPJfs1BX-Lo2aojmFLz2oOdS_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
